@@ -169,6 +169,11 @@ body {
 body.active { overflow: hidden; }
 
 
+.responsiveFather{
+
+  width: 100%;
+  height: auto;
+}
 .responsive {
   max-width: 100%;
   height: auto;
